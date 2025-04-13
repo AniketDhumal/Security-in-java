@@ -168,13 +168,9 @@ Clone the repository or download the individual Java files.
 
 For each file, compile and run using the following commands:
 
+```bash
 javac <filename>.java
 java <filename>
-
-For example, to run the AES Modes program:
-
-javac AESModes.java
-java AESModes
 
 Follow the instructions printed in the console for user inputs.
 
