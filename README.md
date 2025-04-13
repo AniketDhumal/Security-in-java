@@ -163,7 +163,7 @@ Size(KB)  AES Time(ms)  DES Time(ms)
 **Decrypted**: HelloFlexibleAES  
 
 
-🧑‍💻 How to Run
+## 🧑‍💻 How to Run
 Clone the repository or download the individual Java files.
 
 For each file, compile and run using the following commands:
@@ -178,7 +178,7 @@ java AESModes
 
 Follow the instructions printed in the console for user inputs.
 
-🧰 Requirements
+## 🧰 Requirements
 Java JDK 8 or higher
 
 No external libraries required (uses Java's built-in javax.crypto package for DES/AES, and custom algorithms for Affine, Hill, and Playfair ciphers)
